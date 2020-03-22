@@ -1,1 +1,4 @@
 Welcome to Time Capsule
+
+This is a personal diary application which performs CRUD operations.
+It is available in Android,Website and Software.
